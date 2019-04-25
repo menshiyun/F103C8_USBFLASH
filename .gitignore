@@ -4,6 +4,7 @@
 *._ia
 *.axf
 *.bak
+*.bin
 *.crf
 *.d
 *.dep
@@ -41,7 +42,10 @@ JLinkLog.txt
 *.xcl
 *.xml
 
-*.prefs
+# SW4STM32
+SW4STM32/*/Debug/
+SW4STM32/*/Release/
+SW4STM32/*/.gitignore
 
 # CMSIS Lib
 Drivers/CMSIS/DSP_Lib/
