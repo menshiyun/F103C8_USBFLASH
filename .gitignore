@@ -1,0 +1,66 @@
+
+# MDK-ARM
+*.__i
+*._ia
+*.axf
+*.bak
+*.crf
+*.d
+*.dep
+*.hex
+*.htm
+*.html
+*.iex
+*.lnp
+*.log
+*.lst
+*.map
+*.o
+*.sct
+*.scvd
+*.tmp
+*.uvguix.*
+JLinkLog.txt
+
+# EWARM
+*.crun
+*.cspy
+*.cspy.*
+*.dbgdt
+*.dni
+*.ewt
+*.jlink
+*.out
+*.pbi
+*.pbi.*
+*.pbd
+*.pbd.*
+*.sim
+*.wsdt
+*.wspos
+*.xcl
+*.xml
+
+*.prefs
+
+# CMSIS Lib
+Drivers/CMSIS/DSP_Lib/
+Drivers/CMSIS/Lib/
+Drivers/CMSIS/Device/ST/STM32F*xx/Source/
+Drivers/CMSIS/RTOS/
+
+# template
+*/*template.*
+*/*/*template.*
+*/*/*/*template.*
+*/*/*/*/*template.*
+*/*/*/*/*/*template.*
+*/*/*/*/*/*/*template.*
+*/*/*/*/*/*/*/*template.*
+*/*/*/*/*/*/*/*/*template.*
+
+# VS Code
+.vscode/
+
+# STM32CubeMX
+.mxproject
