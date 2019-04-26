@@ -46,6 +46,7 @@ JLinkLog.txt
 SW4STM32/*/Debug/
 SW4STM32/*/Release/
 SW4STM32/*/.gitignore
+SW4STM32/*/*.cfg
 
 # CMSIS Lib
 Drivers/CMSIS/DSP_Lib/
