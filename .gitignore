@@ -22,6 +22,8 @@
 *.tmp
 *.uvguix.*
 JLinkLog.txt
+*.dbgconf
+MDK-ARM/RTE/
 
 # EWARM
 *.crun
