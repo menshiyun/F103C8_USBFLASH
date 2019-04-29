@@ -44,11 +44,21 @@ MDK-ARM/RTE/
 *.xcl
 *.xml
 
+# GCC
+*.elf
+
 # SW4STM32
 SW4STM32/*/Debug/
 SW4STM32/*/Release/
 SW4STM32/*/.gitignore
 SW4STM32/*/*.cfg
+
+# TrueSTUDIO
+TrueSTUDIO/*/Debug/
+TrueSTUDIO/*/Release/
+TrueSTUDIO/*/.gitignore
+TrueSTUDIO/*/.settings/*.prefs
+!TrueSTUDIO/*/.settings/com.atollic.truestudio.debug.hardware_device.prefs
 
 # CMSIS Lib
 Drivers/CMSIS/DSP_Lib/
